@@ -1,5 +1,5 @@
 Project goal was to build a model to predict LIX-number of the articles.
-1. tree web-sources were scrapped:
+1. three web-sources were scrapped:
 	1.1. TV2 - majority of data.
 			Data stored: isds2023_group31/Data/TV2_raw
 			Scrapping code: isds2023_group31/codes/data scraping/ Eksamen-Test_New_New.ipynb and TV2-...
